@@ -1,0 +1,7 @@
+D:\asp.net mvc\Preatice\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+D:\asp.net mvc\Preatice\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe
+D:\asp.net mvc\Preatice\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.pdb
+D:\asp.net mvc\Preatice\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.csprojAssemblyReference.cache
+D:\asp.net mvc\Preatice\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.csproj.CoreCompileInputs.cache
+D:\asp.net mvc\Preatice\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.exe
+D:\asp.net mvc\Preatice\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.pdb
